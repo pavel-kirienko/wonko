@@ -27,3 +27,8 @@
 *.exe
 *.out
 *.app
+
+# IDE and build outputs
+.idea
+cmake-build*
+build
